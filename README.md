@@ -14,3 +14,12 @@ Pressing the button leads to the appearance of confetti for as long as the butto
 
 To build an enclosure for this project I used a cardbooard bowl. I had previously tried a cardboard box, but I found it was to flimsy under the pressure of the joystick and button being pressed. The enclosure has the bowl upside down with the ESP32 and the wiring underneath it. The potentiometers base is taped to the inside of the bowl with the knob sticking up through a hole in the bowl. The button and the joystick are sitting on top of the upward facing bowl bottom because they need the support of the bowl to withstand being pressed. There are holes covered in electrical tape that allow the wires of the button and joystick to connect to the ESP 32 under the bowl. The bowl also has a cutout on the side to help the USB-C cord reach the computer. To decorate the enclosure I used mutliple colors of construction paper, reministent of the confetti that the button makes appear in order to make the enclosure fit with the festive theme of the project. I also added a brief label to the joystick, button, and potentiometer to give the user a basic idea of what they do.
 
+Here are some images of the project:
+
+![control](https://user-images.githubusercontent.com/62814033/157890823-2bfda113-da11-4764-b030-5c9c8d0caca3.jpg)
+
+![hardware](https://user-images.githubusercontent.com/62814033/157890844-071c0fce-a647-4911-97e1-30b1f560b58d.jpg)
+
+![demo](https://user-images.githubusercontent.com/62814033/157891034-9570b815-1ed4-42e1-8d7c-4d137377d70a.jpg)
+
+
