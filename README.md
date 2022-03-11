@@ -18,6 +18,7 @@ Here are some images of the project:
 
 ![set_up](https://user-images.githubusercontent.com/62814033/157891757-f599e24b-717f-46d3-bb0b-4e6fb87ff180.jpg)
 
+![wiring](https://user-images.githubusercontent.com/62814033/157891960-840d079b-e3bc-4ec4-a53b-95a48e43914d.jpg)
 
 ![demo](https://user-images.githubusercontent.com/62814033/157891034-9570b815-1ed4-42e1-8d7c-4d137377d70a.jpg)
 
