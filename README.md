@@ -16,9 +16,9 @@ To build an enclosure for this project I used a cardbooard bowl. I had previousl
 
 Here are some images of the project:
 
-![control](https://user-images.githubusercontent.com/62814033/157890823-2bfda113-da11-4764-b030-5c9c8d0caca3.jpg)
+![hardware](https://user-images.githubusercontent.com/62814033/157891368-b3f25351-d0e2-4fb8-8638-ee5a07c548c6.jpg)
 
-![hardware](https://user-images.githubusercontent.com/62814033/157890844-071c0fce-a647-4911-97e1-30b1f560b58d.jpg)
+![control](https://user-images.githubusercontent.com/62814033/157891398-ab3b59c5-bf5d-4b55-96d1-5d9001d62c07.jpg)
 
 ![demo](https://user-images.githubusercontent.com/62814033/157891034-9570b815-1ed4-42e1-8d7c-4d137377d70a.jpg)
 
