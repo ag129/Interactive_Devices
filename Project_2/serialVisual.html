@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.37/Tone.js" integrity="sha512-gK8OnTXn8cTYkHqYX+bhzjQ1rClAPuG2eMy+oRuV26mSuE0EbZeULFKdyc/YGX1Z/JsC06FXxQttdX4aahjSMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="serialVisual.js"></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>  
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <style>
+      .secret{
+        color: rgb(243, 189, 54);
+      }
+      .emotion{
+        font-size: 200px;
+        padding: 125px;
+        text-shadow: 2px 2px white;
+        color: black;
+      }
+      .dancing{
+        width: 600px;
+        position: absolute;
+        top: 250px;
+        left: 250px;
+        z-index: 100;
+
+      }
+      .text{
+        font-size: 75px;
+        color: rgb(243, 189, 54);
+        position: absolute;
+        top: 40px;
+        left: 275px;
+      }
+    </style>
+  </head>
+  <body>
+    <audio id="song">
+      <source src="Firework.ogg" type="audio/ogg">
+      <source src="Firework.mp3" type="audio/mpeg">
+    </audio>
+    <img id = "confetti" src="confetti.jpg">
+    <img class="dancing" src="dancing.gif">
+    <div class = "text" id="text">Celebrate yourself!</div>
+  </body>
+</html>
